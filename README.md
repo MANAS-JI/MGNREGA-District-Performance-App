@@ -75,7 +75,7 @@ While the Government of India provides this data via an API, many citizens lack 
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/MGNREGA-District-Performance-App.git
+git clone https://github.com/MANAS-JI/MGNREGA-District-Performance-App.git
 cd MGNREGA-District-Performance-App
 ```
 
@@ -92,7 +92,6 @@ DB_USER=your_user
 DB_PASS=your_password
 DB_NAME=mgnrega_data
 ```
-*(Do not commit your actual .env file)*
 
 ### **4. Run the backend**
 ```bash
@@ -105,10 +104,6 @@ python app.py
 ```bash
 npm run dev
 ```
-
-### **6. Access the app**
-Visit → `http://localhost:3000`
-
 ---
 
 ## 📊 Example Visuals
@@ -117,13 +112,6 @@ Visit → `http://localhost:3000`
 - **Pie chart:** Gender ratio of beneficiaries.
 
 ---
-
-## 🚀 Hosting
-Deployed on VPS:  
-👉 [Live Website](http://<your-server-ip>:<port>)  
-
-Demo Video (Loom):  
-🎥 [Watch Walkthrough](https://www.loom.com/share/<your-video-id>)
 
 GitHub Repository:  
 🔗 [MGNREGA-District-Performance-App](https://github.com/<your-username>/MGNREGA-District-Performance-App)
@@ -140,8 +128,8 @@ GitHub Repository:
 ## 🧑‍💻 Author
 **Manas Gupta**  
 Cybersecurity & Technology Enthusiast  
-📧 Email: your.email@example.com  
-🌐 GitHub: [github.com/your-username](https://github.com/your-username)
+📧 Email: manasgupta7674@gmail.com 
+🌐 GitHub: [github.com/MANAS-JI](https://github.com/MANAS-JI)
 
 ---
 
